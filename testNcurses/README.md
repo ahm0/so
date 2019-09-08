@@ -18,3 +18,9 @@
 ## Uso
 
 `./bin/server`
+
+----
+
+**Para más información ver**
+
+* [NCURSES Programming HOWTO](http://www.tldp.org/HOWTO/NCURSES-Programming-HOWTO/index.html)
