@@ -8,11 +8,11 @@
 ## Compilación e Instalación
 
 * Dentro del directorio del proyecto ejecutar:
- * Compilar las bibliotecas: `make libs`
- * Compilar el ejecutable: `make all`
- * Instalar el ejecutable: `make install`
+  * Compilar las bibliotecas: `make libs`
+  * Compilar el ejecutable: `make all`
+  * Instalar el ejecutable: `make install`
 * Exportar la variable de entorno LD_LIBRARY_PATH con path absoluto al directorio bin/lib del proyecto. 
- * Ejemplo: export LD_LIBRARY_PATH=/home/usuario/testNcurses/bin/lib
+  * Ejemplo: export LD_LIBRARY_PATH=/home/usuario/testNcurses/bin/lib
 
 ## Uso
 
