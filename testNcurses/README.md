@@ -3,6 +3,7 @@
 ## Pre-requisitos
 
 1. Tener instalado el comando make
+1. Tener instalada la biblioteca ncurses
 1. Dentro del directorio del proyecto crear los directorios "bin" y "bin/lib"
 
 ## Compilación e Instalación
